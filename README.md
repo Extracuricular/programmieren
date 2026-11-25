@@ -26,6 +26,5 @@ How you doing howdy? Haha
             </tr>
         </tbody>
     </table>
-    <script src="script.js"></script>
 </body>
 </html>
